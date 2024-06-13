@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Harisankar B
-permalink: /about/
+permalink: /
 ---
 
 I am currently a 2nd year Integrated MSc student at the [National Institute of Science Education and Research (NISER)](https://www.niser.ac.in/), majoring in Mathematics with a keen interest in Computer Science.

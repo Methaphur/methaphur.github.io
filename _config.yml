@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Harisankar B (Methaphur)
+name: Harisankar B
 
 # Short bio or description (displayed in the header)
 description: Student at NISER
@@ -48,9 +48,23 @@ url: https://methaphur.github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+
+collections:
+  blog:
+    output: true
+    permalink: /:collection/:name
+
+collections:
+  math:
+    output: true
+    permalink: /:collection/:name
+
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
+
+
 
 permalink: /:title/
 
