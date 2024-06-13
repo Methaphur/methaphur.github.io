@@ -13,7 +13,7 @@ My primary academic focus lies in Mathematics. I also want to explore various fi
 
 ### Extracurricular Activities
 
-I am an active core member of both the Mathematix Club and the Coding Club at NISER. My roles and contributions include:
+I am an active core member of both the [Mathematix Club](https://mathematix4.wixsite.com/mathematix) and the [Coding Club](https://sdgniser.github.io/) at NISER. My roles and contributions include:
 
 - **Switcheroo Coding Event**: Organized this event, developed a website for running the competition, and ensured its smooth execution. You can find more information about the event [here](https://www.niser.ac.in/~smishra/event/2022sdg/switcheroo.html).
 - **Pi Day Celebration 2024**: Organized the Pi Day event as part of the Math Club, engaging participants in various math-related activities.
