@@ -34,3 +34,6 @@ A significant portion of the audience has expressed discomfort with scenes invol
 ## Conclusion
 
 *Aavesham* is a complex film that uses dark humor and exaggerated scenarios to deliver a critical message about negative behaviors such as excessive alcohol consumption and smoking. While some viewers might initially perceive these themes as glorified, a closer look reveals that the film is, in fact, a critique of these lifestyles. The narrative focuses on the characters' journey and the consequences of their actions, ultimately delivering a message against the very behaviors it seemingly portrays. By understanding the film’s deeper themes and satirical elements, viewers can appreciate the nuanced storytelling and the critical perspective it offers.
+
+
+(P.S Special thanks and love to [Sushin Shyam](https://www.instagram.com/sushintdt/?hl=en) for absolutely cooking with the music production. Blasting Aavesham album as I’m writing this)
