@@ -1,32 +1,87 @@
 ---
-layout: page
-title: Harisankar B
-permalink: /
+layout : page
+title : Harisankar B
+permalink : /
 ---
 
-I am currently a 2nd year Integrated MSc student at the [National Institute of Science Education and Research (NISER)](https://www.niser.ac.in/), majoring in Mathematics with a keen interest in Computer Science.
+I am currently a 3rd year Integrated MSc student at the National Institute of Science Education and Research (NISER), majoring in **Mathematics** with a keen interest in **Computer Science**.
 
-### Academic Interests
+---
 
-My primary academic focus lies in Mathematics. I also want to explore various fields in theoretical Computer Science.
+## Academic Interests
 
+My primary academic focus lies in **Mathematics**. I am particularly interested in **theoretical Computer Science** and **Machine Learning**, exploring the interdisciplinary connections between these fields.
 
-### Extracurricular Activities
+---
 
-I am an active core member of both the [Mathematix Club](https://mathematix4.wixsite.com/mathematix) and the [Coding Club](https://sdgniser.github.io/) at NISER. My roles and contributions include:
+## Relevant Courses
 
-- **Switcheroo Coding Event**: Organized this event, developed a website for running the competition, and ensured its smooth execution. You can find more information about the event [here](https://www.niser.ac.in/~smishra/event/2022sdg/switcheroo.html).
-- **Pi Day Celebration 2024**: Organized the Pi Day event as part of the Math Club, engaging participants in various math-related activities.
+- **Mathematics**: Real Analysis, Linear Algebra, Discrete Mathematics, Group Theory, Probability Theory, Metric Spaces, Differential Equations, Multivariate Calculus, Rings and Modules
+- **Computer Science**: Data Structures and Algorithms, Theory of Computation, Discrete Structures and Computation, Design and Analysis of Algorithms
 
-### Personal Interests
+---
 
-Outside of academics, I enjoy playing the violin and listening to music. 
+## Skills
 
-Feel free to connect with me to discuss mathematics, computer science, or any related topics!
+- **Programming Languages**: Python, JavaScript
+- **Web Development**: HTML, CSS, Flask, React, Django
+- **Tools and Frameworks**: Mathematica, LaTeX, NumPy, Matplotlib, Pandas
+- **Music**: Violinist with an interest in both classical and contemporary music
 
-### Contact
-You can reach out to me through the following channels:
-- Email: [harisankar.b@niser.ac.in](mailto:harisankar.b@niser.ac.in)
-- Personal Email: [harisankarbinodss@gmail.com](mailto:harisankarbinodss@gmail.com)
-- LinkedIn: [Harisankar B](https://www.linkedin.com/in/harisankar-binod-a4071a245/)
-- GitHub: [Methaphur](https://github.com/Methaphur)
+---
+
+## Projects
+
+- **Switcheroo Website**: Developed a Flask-based web server that facilitates a unique coding event where teams collaborate by switching systems and solving problems together. The app integrates a timer and scoring system. [GitHub Repo](https://github.com/Methaphur/switcheroo).
+
+- **Timetable Generator**: Built a system to minimize course conflicts and help plan events for various clubs at NISER. The project also integrates Google Calendar for easy scheduling.
+
+- **Competition Website**: Developing a coding competition platform using Django and React. This platform serves students at NISER for coding practice and competitive programming. Leaderboards, point tracking, and team participation are included. [Check out the project on GitHub](https://github.com/sugar-syrup/NiserCodeLab).
+
+---
+
+## Internship – Summer 2023
+
+During the summer of 2023, I completed an internship under the guidance of [**Subhankar Mishra**](https://niser.ac.in/~smishra/), where I worked on a research project related to **Artificial Intelligence in Oral Health**. My contributions led to the development of a **book chapter** that explores the applications of AI in improving diagnosis, treatment, and patient care within dentistry.
+
+This experience allowed me to explore the interdisciplinary connections between AI and healthcare, particularly how machine learning models assist in predicting and diagnosing oral health issues.
+
+---
+
+## Extracurricular Activities
+
+I am an active core member of both the **MathematiX Club** and the **Coding Club** at NISER. Below are some of my roles and contributions:
+
+- **Switcheroo Coding Event**: Organized the event, developed the competition website, and ensured its smooth execution. More details about the event can be found [here](https://www.niser.ac.in/~smishra/event/2022sdg/switcheroo.html).
+
+- **Pi Day Celebration 2024**: Organized the Pi Day event as part of the Mathematix Club, engaging participants in math-related activities like puzzles, quizzes, and talks.
+
+---
+
+## Achievements
+
+- **Organizer**: Successfully organized events such as Switcheroo and Pi Day, promoting engagement in coding and mathematics within the NISER community.
+- **Projects**: Developed various web apps and tools that enhanced the collaboration and learning experience for students at NISER.
+
+---
+
+## Community Involvement
+
+As the **Head of the Coding Club** at NISER, I organize events, oversee all activities, and plan initiatives that promote coding and technology. I am also a core member of the **MathematiX Club**, where I help foster a love for mathematics through events and competitions.
+
+---
+
+## Personal Interests
+
+Outside of academics, I enjoy playing the **violin** and listening to a wide range of music.
+
+---
+
+## Contact
+
+Feel free to connect with me to discuss mathematics, computer science, or related topics!
+
+- **Email**: [harisankar.b@niser.ac.in](mailto:harisankar.b@niser.ac.in)
+- **Personal Email**: [harisankarbinodss@gmail.com](mailto:harisankarbinodss@gmail.com)
+- **LinkedIn**: [Harisankar B](https://www.linkedin.com)
+- **GitHub**: [Methaphur](https://github.com/Methaphur)
