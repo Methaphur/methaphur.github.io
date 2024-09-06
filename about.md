@@ -24,8 +24,9 @@ My primary academic focus lies in **Mathematics**. I am particularly interested 
 ## Skills
 
 - **Programming Languages**: Python, JavaScript
-- **Web Development**: HTML, CSS, Flask, React, Django
+- **Machine Learning and AI**: Pytorch, Tenserflow, Scikit-learn
 - **Tools and Frameworks**: Mathematica, LaTeX, NumPy, Matplotlib, Pandas
+- **Web Development**: HTML, CSS, Flask, React, Django
 - **Music**: Violinist with an interest in both classical and contemporary music
 
 ---
@@ -34,9 +35,9 @@ My primary academic focus lies in **Mathematics**. I am particularly interested 
 
 - **Switcheroo Website**: Developed a Flask-based web server that facilitates a unique coding event where teams collaborate by switching systems and solving problems together. The app integrates a timer and scoring system. [GitHub Repo](https://github.com/Methaphur/switcheroo).
 
-- **Timetable Generator**: Built a system to minimize course conflicts and help plan events for various clubs at NISER. The project also integrates Google Calendar for easy scheduling.
+- **Timetable Generator (WIP)**: Designing a system to minimize course conflicts using algorithmic techniques like constraint satisfaction and graph coloring. The project also integrates scheduling algorithms to assist clubs in planning events without overlaps, offering an optimal solution for time management at NISER.
 
-- **Competition Website**: Developing a coding competition platform using Django and React. This platform serves students at NISER for coding practice and competitive programming. Leaderboards, point tracking, and team participation are included. [Check out the project on GitHub](https://github.com/sugar-syrup/NiserCodeLab).
+- **Competition Website (WIP)**: Developing a coding competition platform using Django and React. This platform serves students at NISER for coding practice and competitive programming. Leaderboards, point tracking, and team participation are included. [Check out the project on GitHub](https://github.com/sugar-syrup/NiserCodeLab).
 
 ---
 
