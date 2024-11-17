@@ -10,7 +10,7 @@ I am currently a 3rd year Integrated MSc student at the National Institute of Sc
 
 ## Academic Interests
 
-My primary academic focus lies in **Mathematics**. I am particularly interested in **theoretical Computer Science** and **Machine Learning**, exploring the interdisciplinary connections between these fields.
+I am particularly fascinated by **theoretical computer science** and machine learning, with a keen interest in exploring how these fields overlap with **complexity theory**, **formal methods**, **logic**, and **graph theory**. My current focus lies in automated theorem proving, especially using tools like [_LEAN_](https://leanprover-community.github.io/).
 
 ---
 
@@ -25,7 +25,7 @@ My primary academic focus lies in **Mathematics**. I am particularly interested 
 
 - **Programming Languages**: Python, JavaScript
 - **Machine Learning and AI**: Pytorch, Tenserflow, Scikit-learn
-- **Tools and Frameworks**: Mathematica, LaTeX, NumPy, Matplotlib, Pandas
+- **Tools and Frameworks**: Mathematica, LaTeX, NumPy, Matplotlib, Pandas, Obsidian, Notion
 - **Web Development**: HTML, CSS, Flask, React, Django
 - **Music**: Violinist with an interest in both classical and contemporary music
 
@@ -33,7 +33,12 @@ My primary academic focus lies in **Mathematics**. I am particularly interested 
 
 ## Projects
 
+ - **Problem Of The Week Platform**: Developed a website that hosts weekly competitive programming problems, complete with automated leaderboard management. It fosters coding engagement within the community and helps track progress. [Check out the project on GitHub](https://sdgniser.github.io/problem-of-the-week)
+
 - **Switcheroo Website**: Developed a Flask-based web server that facilitates a unique coding event where teams collaborate by switching systems and solving problems together. The app integrates a timer and scoring system. [GitHub Repo](https://github.com/Methaphur/switcheroo).
+
+- **Event Management**: Building an event scheduling system that integrates with Google Calendar to avoid scheduling conflicts. Plans include a publicly accessible Event Calendar for NISER clubs with features like color-coded events and a Jekyll-based frontend.
+[Check out the project on GitHub](https://sdgniser.github.io/event-management)
 
 - **Timetable Generator (WIP)**: Designing a system to minimize course conflicts using algorithmic techniques like constraint satisfaction and graph coloring. The project also integrates scheduling algorithms to assist clubs in planning events without overlaps, offering an optimal solution for time management at NISER.
 
@@ -53,9 +58,14 @@ This experience allowed me to explore the interdisciplinary connections between 
 
 I am an active core member of both the **MathematiX Club** and the **Coding Club** at NISER. Below are some of my roles and contributions:
 
+- **Code N Cffee**: Organized weekly coding sessions where students gather to solve problems, discuss algorithms, and learn new programming concepts. 
+
 - **Switcheroo Coding Event**: Organized the event, developed the competition website, and ensured its smooth execution. More details about the event can be found [here](https://www.niser.ac.in/~smishra/event/2022sdg/switcheroo.html).
 
 - **Pi Day Celebration 2024**: Organized the Pi Day event as part of the Mathematix Club, engaging participants in math-related activities like puzzles, quizzes, and talks.
+
+- **SUMS/SRS/AXIOM**: Organized many takjs ithin in the club and also participated in the events. 
+
 
 ---
 
