@@ -48,8 +48,7 @@ I am particularly fascinated by **theoretical computer science** and machine lea
 
 ## Publication
 
-- Harisankar B., Mishra, S. (2024). **Artificial Intelligence in Oral Health**. In: Mishra, S., Nayak, R., Rath, A. (eds) *AI and IoT for Smart Health*. Studies in Big Data, vol 126. Springer, Cham.  
-  [https://doi.org/10.1007/978-3-031-84047-0_1](https://doi.org/10.1007/978-3-031-84047-0_1)
+**Harisankar Binod**, T. Shithij, A. Tichy, and S. Mishra. *Artificial Intelligence in Oral Health*. In: **Artificial Intelligence for Oral Health Care: Applications and Future Prospects**, eds. F. Schwendicke, P.K. Chaudhari, K. Dhingra, S.E. Uribe, M. Hamdan. Springer Nature Switzerland, Cham, 2025, pp. 1–21. [https://doi.org/10.1007/978-3-031-84047-0_1](https://doi.org/10.1007/978-3-031-84047-0_1)
 
 ---
 
