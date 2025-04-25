@@ -46,6 +46,13 @@ I am particularly fascinated by **theoretical computer science** and machine lea
 
 ---
 
+## Publication
+
+- Harisankar B., Mishra, S. (2024). **Artificial Intelligence in Oral Health**. In: Mishra, S., Nayak, R., Rath, A. (eds) *AI and IoT for Smart Health*. Studies in Big Data, vol 126. Springer, Cham.  
+  [https://doi.org/10.1007/978-3-031-84047-0_1](https://doi.org/10.1007/978-3-031-84047-0_1)
+
+---
+
 ## Internship – Summer 2023
 
 During the summer of 2023, I completed an internship under the guidance of [**Subhankar Mishra**](https://niser.ac.in/~smishra/), where I worked on a research project related to **Artificial Intelligence in Oral Health**. My contributions led to the development of a **book chapter** that explores the applications of AI in improving diagnosis, treatment, and patient care within dentistry.
