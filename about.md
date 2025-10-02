@@ -4,7 +4,7 @@ title : Harisankar B
 permalink : /
 ---
 
-I am currently a 3rd year Integrated MSc student at the National Institute of Science Education and Research (NISER), majoring in **Mathematics** with a keen interest in **Computer Science**.
+I am currently a 4th year Integrated MSc student at the National Institute of Science Education and Research (NISER), majoring in **Mathematics** with a keen interest in **Computer Science**.
 
 ---
 
