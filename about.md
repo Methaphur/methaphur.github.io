@@ -33,12 +33,16 @@ I am particularly fascinated by **theoretical computer science** and machine lea
 
 ## Projects
 
- - **Problem Of The Week Platform**: Developed a website that hosts weekly competitive programming problems, complete with automated leaderboard management. It fosters coding engagement within the community and helps track progress. [Check out the project on GitHub](https://sdgniser.github.io/problem-of-the-week)
+- **QR Coupon for Event Management**: A simple, lightweight website designed to send QR codes for event participation to users via email using Google Apps Script. Event organizers can verify these codes through a static webpage, streamlining check-ins and participation tracking. [GitHub Repo](https://github.com/Methaphur/QR-Coupon-Scanner)
+
+ - **Problem Of The Week Platform**: Developed a website that hosts weekly competitive programming problems, complete with automated leaderboard management. It fosters coding engagement within the community and helps track progress. [Github Repo](https://sdgniser.github.io/problem-of-the-week)
 
 - **Switcheroo Website**: Developed a Flask-based web server that facilitates a unique coding event where teams collaborate by switching systems and solving problems together. The app integrates a timer and scoring system. [GitHub Repo](https://github.com/Methaphur/switcheroo).
 
+- **NISER Mess Menu Website**: Developed a website for the NISER mess that displays the weekly menu in an organized and visually appealing format. The menu is uploaded by mess staff through Google Forms, and the site automatically fetches and presents the data for easy access by students. [View Website](https://methaphur.github.io/messmenu/)
+
 - **Event Management**: Building an event scheduling system that integrates with Google Calendar to avoid scheduling conflicts. Plans include a publicly accessible Event Calendar for NISER clubs with features like color-coded events and a Jekyll-based frontend.
-[Check out the project on GitHub](https://sdgniser.github.io/event-management)
+[Github Repo](https://sdgniser.github.io/event-management)
 
 - **Timetable Generator (WIP)**: Designing a system to minimize course conflicts using algorithmic techniques like constraint satisfaction and graph coloring. The project also integrates scheduling algorithms to assist clubs in planning events without overlaps, offering an optimal solution for time management at NISER.
 
@@ -51,6 +55,10 @@ I am particularly fascinated by **theoretical computer science** and machine lea
 **Harisankar Binod**, T. Shithij, A. Tichy, and S. Mishra. *Artificial Intelligence in Oral Health*. In: **Artificial Intelligence for Oral Health Care: Applications and Future Prospects**, eds. F. Schwendicke, P.K. Chaudhari, K. Dhingra, S.E. Uribe, M. Hamdan. Springer Nature Switzerland, Cham, 2025, pp. 1–21. [https://doi.org/10.1007/978-3-031-84047-0_1](https://doi.org/10.1007/978-3-031-84047-0_1)
 
 ---
+
+## Internship – Summer 2025
+
+During the summer of 2025, I participated in the Summer Research Program at the Institute of Mathematical Sciences (IMSc), Chennai, under the guidance of [**Dr. Meena Mahajan**](https://www.imsc.res.in/~meena/), Professor at the Theoretical Computer Science (TCS) group, IMSc. My work focused on **Automated Reasoning**, where I explored topics in **formal logic**, experimented with **LEAN**, and delved into **automated theorem proving**. This internship deepened my understanding of the theoretical foundations of computer science and their applications in formal verification and proof automation.
 
 ## Internship – Summer 2023
 
