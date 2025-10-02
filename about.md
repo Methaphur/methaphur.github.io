@@ -16,8 +16,9 @@ I am particularly fascinated by **theoretical computer science** and machine lea
 
 ## Relevant Courses
 
-- **Mathematics**: Real Analysis, Linear Algebra, Discrete Mathematics, Group Theory, Probability Theory, Metric Spaces, Differential Equations, Multivariate Calculus, Rings and Modules
-- **Computer Science**: Data Structures and Algorithms, Theory of Computation, Discrete Structures and Computation, Design and Analysis of Algorithms
+- **Mathematics**: Real Analysis, Linear Algebra, Discrete Mathematics, Group Theory, Probability Theory, Metric Spaces, Differential Equations, Multivariate Calculus, Rings and Modules, Measure Theory, Complex Analysis, Graph Theory, Number Theory, Functional Analysis, Topology
+
+- **Computer Science**: Data Structures and Algorithms, Theory of Computation, Discrete Structures and Computation, Design and Analysis of Algorithms, Advanced Machine Learning, Algorithmic Coding Theory, Computational Geometry
 
 ---
 
