@@ -1,0 +1,26 @@
+disabled = false
+locale = "en"
+label = "English"
+weight = 1
+title = "Harisankar B"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Academic webpage of Harisankar B, Integrated MSc Mathematics student at NISER with interests in theoretical computer science, machine learning, formal methods, logic, and graph theory."
+  copyright = "&copy; 2026 Harisankar B"
+
+[params.author]
+  name = "Harisankar B"
+  email = "harisankar.b@niser.ac.in"
+  image = "img/hari.jpeg"
+  imageQuality = 96
+  headline = "Mathematics student at NISER interested in TCS, formal methods, and machine learning."
+  bio = "Exploring automated reasoning, logic, graph theory, and AI."
+  links = [
+    { email = "mailto:harisankar.b@niser.ac.in" },
+    { github = "https://github.com/Methaphur" },
+    { linkedin = "https://www.linkedin.com" }
+  ]

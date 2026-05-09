@@ -1,0 +1,60 @@
+# -- Theme Options --
+colorScheme = "one-light"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = false
+enableCodeCopy = true
+enableStructuredBreadcrumbs = true
+
+mainSections = ["blogs"]
+disableTextInHeader = false
+defaultSocialImage = "/img/hari.jpeg"
+
+[header]
+  layout = "fixed"
+
+[footer]
+  showMenu = true
+  showCopyright = true
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+
+[homepage]
+  layout = "profile"
+  showRecent = true
+  showRecentItems = 3
+  showMoreLink = true
+  showMoreLinkDest = "/blogs/"
+  cardView = false
+
+[article]
+  showDate = true
+  showAuthor = true
+  showBreadcrumbs = true
+  showHeadingAnchors = true
+  showPagination = true
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = false
+  sharingLinks = ["email", "linkedin"]
+
+[list]
+  showHero = false
+  showBreadcrumbs = true
+  showSummary = true
+  showCards = true
+  orderByWeight = true
+  groupByYear = false
+  cardView = true
+  cardViewScreenWidth = false
+
+[taxonomy]
+  showTermCount = true
+  cardView = true
+
+[term]
+  groupByYear = false
+  cardView = true

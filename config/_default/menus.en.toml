@@ -1,0 +1,31 @@
+[[main]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[main]]
+  name = "Blogs"
+  pageRef = "blogs"
+  weight = 20
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/Methaphur"
+  weight = 90
+
+[[main]]
+  identifier = "email"
+  pre = "envelope"
+  url = "mailto:harisankar.b@niser.ac.in"
+  weight = 100
+
+[[footer]]
+  name = "About"
+  pageRef = "about"
+  weight = 10
+
+[[footer]]
+  name = "Blogs"
+  pageRef = "blogs"
+  weight = 20
