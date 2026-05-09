@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://methaphur.github.io/sitemap.xml
