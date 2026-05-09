@@ -8,7 +8,7 @@ I am currently a fourth-year Integrated MSc student at the National Institute of
 
 ## Research Interests
 
-I am fascinated by **theoretical computer science** and machine learning, with particular interest in how these areas overlap with **complexity theory**, **formal methods**, **logic**, and **graph theory**. My current focus lies in automated theorem proving, especially using tools like [Lean](https://leanprover-community.github.io/).
+I am fascinated by **theoretical computer science** and **machine learning**, with particular interest in how these areas overlap with **complexity theory**, **formal methods**, **logic**, and **graph theory**. My current focus lies in automated theorem proving, especially using tools like [LEAN4](https://leanprover-community.github.io/).
 
 ## Education
 
