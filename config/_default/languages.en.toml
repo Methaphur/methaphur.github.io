@@ -17,10 +17,11 @@ title = "Harisankar B"
   email = "harisankar.b@niser.ac.in"
   image = "img/hari.jpeg"
   imageQuality = 96
-  headline = "Research student at NISER interested in TCS, formal methods, and machine learning."
+  headline = "Research student at [<u>NISER</u>](https://www.niser.ac.in/)"
   bio = "Exploring automated reasoning, logic, and AI."
   links = [
     { email = "mailto:harisankar.b@niser.ac.in" },
     { github = "https://github.com/Methaphur" },
-    { linkedin = "https://www.linkedin.com" }
+    { linkedin = "https://www.linkedin.com/in/harisankar-binod-a4071a245/" }
   ]
+  

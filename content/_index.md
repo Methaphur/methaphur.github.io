@@ -5,8 +5,7 @@ description: "Integrated MSc Mathematics student at NISER interested in theoreti
 
 <!-- Fourth-year Integrated MSc Mathematics student at NISER, interested in theoretical computer science, formal methods, automated reasoning, and machine learning. -->
 
-Welcome to my world! <br> 
-Site Under Construction
+Theoretical Computer Science | Formal Methods | Logic | Machine Learning
 
 <!-- 
 <div class="grid gap-4 md:grid-cols-3 not-prose">
