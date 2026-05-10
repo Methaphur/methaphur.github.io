@@ -52,7 +52,7 @@ In the summer of 2025, I participated in the Summer Research Program at the Inst
 
 ### AI in Oral Health
 
-In the summer of 2023, I completed an internship under the guidance of [Subhankar Mishra](https://niser.ac.in/~smishra/) on a research project related to **Artificial Intelligence in Oral Health**. This work contributed to a book chapter on applications of AI in diagnosis, treatment, and patient care in dentistry.
+In the summer of 2023, I completed an internship under the guidance of [Dr. Subhankar Mishra](https://niser.ac.in/~smishra/) on a research project related to **Artificial Intelligence in Oral Health**. This work contributed to a [book chapter](https://doi.org/10.1007/978-3-031-84047-0_1) on applications of AI in diagnosis, treatment, and patient care in dentistry.
 
 ---
 
