@@ -9,6 +9,11 @@
   weight = 20
 
 [[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 30
+
+[[main]]
   identifier = "github"
   pre = "github"
   url = "https://github.com/Methaphur"
@@ -29,3 +34,8 @@
   name = "Blogs"
   pageRef = "blogs"
   weight = 20
+
+[[footer]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 30
