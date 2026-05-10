@@ -1,6 +1,7 @@
 ---
 title: "About"
 description: "Academic profile, interests, projects, internships, publication, and contact information for Harisankar B."
+layout: "content-only-list"
 showTableOfContents: true
 ---
 

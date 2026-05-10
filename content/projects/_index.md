@@ -1,6 +1,7 @@
 ---
 title: "Projects"
 description: "Selected software, automation, and community technology projects by Harisankar B."
+layout: "content-only-list"
 ---
 
 {{< icon "code" >}} **QR Coupon for Event Management**  
