@@ -1,6 +1,6 @@
 ---
 title: "Harisankar B"
-description: "Integrated MSc Mathematics student at NISER interested in theoretical computer science, automated reasoning, machine learning, logic, and graph theory."
+description: "Integrated MSc Mathematics student at NISER interested in formal verification, automated reasoning, theoretical computer science, machine learning, functional programming and other cool stuff."
 ---
 
 <!-- Fourth-year Integrated MSc Mathematics student at NISER, interested in theoretical computer science, formal methods, automated reasoning, and machine learning. -->
