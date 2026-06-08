@@ -105,5 +105,5 @@ Selected activities include:
 
 - **Email:** [harisankar.b@niser.ac.in](mailto:harisankar.b@niser.ac.in)
 - **Personal Email:** [harisankarbinodss@gmail.com](mailto:harisankarbinodss@gmail.com)
-- **LinkedIn:** [Harisankar B](https://www.linkedin.com/in/harisankar-binod-a4071a245/)
+- **LinkedIn:** [Harisankar B](https://www.linkedin.com/in/harisankar-binod)
 - **GitHub:** [Methaphur](https://github.com/Methaphur)
