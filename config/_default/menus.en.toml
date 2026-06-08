@@ -25,6 +25,12 @@
   url = "mailto:harisankar.b@niser.ac.in"
   weight = 100
 
+[[main]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://in.linkedin.com/in/harisankar-binod"
+  weight = 101
+
 [[footer]]
   name = "About"
   pageRef = "about"
@@ -39,3 +45,9 @@
   name = "Projects"
   pageRef = "projects"
   weight = 30
+
+[[footer]]
+  name = "RSS"
+  pre = "rss"
+  url = "/blogs/index.xml"
+  weight = 25
