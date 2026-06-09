@@ -9,7 +9,31 @@ I am currently a fourth-year Integrated MSc student at the National Institute of
 
 ## Research Interests
 
-I am fascinated by **theoretical computer science** and **machine learning**, with particular interest in how these areas overlap with **complexity theory**, **formal methods**, **logic**, and **graph theory**. My current focus lies in automated theorem proving, especially using tools like [LEAN4](https://leanprover-community.github.io/).
+My research interests lie at the intersection of **automated reasoning**, **formal methods**, **theoretical computer science**, and **machine learning**. I am particularly interested in developing systems that can reason about, verify, and synthesize correct software and mathematical artifacts. My current work focuses on **automated theorem proving**, proof assistants such as [Lean](https://leanprover-community.github.io/), and the **formal verification of distributed systems**. More broadly, I am fascinated by the **foundations of computation**, **logic**, **programming languages**, and the ways in which formal reasoning techniques can be combined with modern machine learning methods to build more reliable and trustworthy intelligent systems.
+
+---
+
+## Research and Internships
+
+### Research Intern at FPLaunchpad, IIT Madras
+I am currently a Research Intern at [FPLaunchpad](https://fplaunchpad.org/) at the [Indian Institute of Technology Madras](https://www.iitm.ac.in/), working under the guidance of [Dr. KC Sivaramakrishnan](https://kcsrk.info/). My research focuses on **formal verification** of replicated data types, where I am using *[Lean](https://leanprover-community.github.io/)* to verify correctness of **distributed systems**.
+
+### Summer Research Program, IMSc Chennai
+
+In the summer of 2025, I participated in the [Summer Research Program](https://www.imsc.res.in/summer_research_programme) at the [Institute of Mathematical Sciences](https://www.imsc.res.in/) (IMSc), Chennai, under the guidance of [Dr. Meena Mahajan](https://www.imsc.res.in/~meena/), Professor in the Theoretical Computer Science group. My work focused on **automated reasoning**, where I explored topics in **formal logic**, experimented with **Lean**, and studied automated theorem proving.
+
+### Winter Internship, IISc Bangalore
+In the winter of 2023, I did a small reading project under the guidance of [Dr. L Sunil Chandra](https://www.csa.iisc.ac.in/~sunil/students.html) at the [Indian Institute of Science](https://www.iisc.ac.in/) (IISc), Bangalore. The project involved reading and summarizing a research paper on **Graph Theory** 
+
+### AI in Oral Health, NISER
+
+In the summer of 2023, I completed an internship under the guidance of [Dr. Subhankar Mishra](https://niser.ac.in/~smishra/) on a research project related to **Artificial Intelligence in Oral Health**. This work contributed to a [book chapter](https://doi.org/10.1007/978-3-031-84047-0_1) on applications of AI in diagnosis, treatment, and patient care in dentistry.
+
+---
+
+## Publication
+
+**Harisankar Binod**, T. Shithij, A. Tichy, and S. Mishra. *Artificial Intelligence in Oral Health*. In **Artificial Intelligence for Oral Health Care: Applications and Future Prospects**, eds. F. Schwendicke, P.K. Chaudhari, K. Dhingra, S.E. Uribe, M. Hamdan. Springer Nature Switzerland, Cham, 2025, pp. 1-21. [https://doi.org/10.1007/978-3-031-84047-0_1](https://doi.org/10.1007/978-3-031-84047-0_1)
 
 ---
 
@@ -42,24 +66,6 @@ Thiruvananthapuram, Kerala
 | Scientific and Productivity Tools | Mathematica, LaTeX, NumPy, Matplotlib, Pandas, Obsidian, Notion |
 | Web Development | HTML, CSS, Flask, React, Django |
 | Music | Violin, with interest in classical and contemporary music |
-
----
-
-## Research and Internships
-
-### Summer Research Program, IMSc Chennai
-
-In the summer of 2025, I participated in the Summer Research Program at the Institute of Mathematical Sciences (IMSc), Chennai, under the guidance of [Dr. Meena Mahajan](https://www.imsc.res.in/~meena/), Professor in the Theoretical Computer Science group. My work focused on **automated reasoning**, where I explored topics in **formal logic**, experimented with **Lean**, and studied automated theorem proving.
-
-### AI in Oral Health
-
-In the summer of 2023, I completed an internship under the guidance of [Dr. Subhankar Mishra](https://niser.ac.in/~smishra/) on a research project related to **Artificial Intelligence in Oral Health**. This work contributed to a [book chapter](https://doi.org/10.1007/978-3-031-84047-0_1) on applications of AI in diagnosis, treatment, and patient care in dentistry.
-
----
-
-## Publication
-
-**Harisankar Binod**, T. Shithij, A. Tichy, and S. Mishra. *Artificial Intelligence in Oral Health*. In **Artificial Intelligence for Oral Health Care: Applications and Future Prospects**, eds. F. Schwendicke, P.K. Chaudhari, K. Dhingra, S.E. Uribe, M. Hamdan. Springer Nature Switzerland, Cham, 2025, pp. 1-21. [https://doi.org/10.1007/978-3-031-84047-0_1](https://doi.org/10.1007/978-3-031-84047-0_1)
 
 ---
 
