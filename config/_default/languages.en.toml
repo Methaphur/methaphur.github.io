@@ -22,6 +22,8 @@ title = "Harisankar B"
   links = [
     { email = "mailto:harisankar.b@niser.ac.in" },
     { github = "https://github.com/Methaphur" },
-    { linkedin = "https://www.linkedin.com/in/harisankar-binod" }
+    { linkedin = "https://www.linkedin.com/in/harisankar-binod" },
+    { bluesky = "https://bsky.app/profile/harisankarbinod.bsky.social" },
+    { x-twitter = "https://x.com/HarisankarBinod" }
   ]
   
