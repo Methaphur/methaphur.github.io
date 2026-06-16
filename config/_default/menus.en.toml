@@ -4,6 +4,11 @@
   weight = 10
 
 [[main]]
+  name = "News"
+  pageRef = "news"
+  weight = 15
+
+[[main]]
   name = "Blogs"
   pageRef = "blogs"
   weight = 20
@@ -35,6 +40,11 @@
   name = "About"
   pageRef = "about"
   weight = 10
+
+[[footer]]
+  name = "News"
+  pageRef = "news"
+  weight = 15
 
 [[footer]]
   name = "Blogs"
