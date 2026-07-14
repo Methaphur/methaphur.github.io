@@ -1,7 +1,7 @@
 ---
 title: "LLM Proposes, Lean Disposes: A Week at the LeanLang Summer School"
 date: 2026-07-14
-description: "Notes from the LeanLang Summer School at IISc Bangalore, on Lean, formal verification, and Emergence's bet that autonomy is only useful once it is verified."
+description: "Notes from the LeanLang Summer School at IISc Bangalore, on Lean"
 summary: "In July 2026 I spent a week at IISc Bangalore for the LeanLang Summer School, run by Emergence. Here is how I got there, what Lean actually is, why formally verified autonomy suddenly matters, and a tour of the week."
 tags: ["lean", "formal verification", "theorem proving", "emergence", "IISc", "distributed systems" ,"agentic systems", "summer school", "LLM"]
 categories: ["Notes"]
@@ -15,7 +15,7 @@ alt: "The historic main building at the Indian Institute of Science, Bangalore"
 
 <!-- In the second week of July 2026, I found myself at the Indian Institute of Science in Bangalore for five days of the [LeanLang Summer School](https://www.emergence.ai/), run by [Emergence](https://www.emergence.ai/). It was fully funded, down to the accommodation at a rather nice hotel (JP Cosmos, Fortune Select). -->
 
-I spent five days at the [LeanLang Summer School](https://www.emergence.ai/) at the Indian Institute of Science in Bangalore, run by [Emergence](https://www.emergence.ai/). It was fully funded, down to the accommodation at a rather nice hotel (JP Cosmos, Fortune Select). The week was a mix of lab sessions and talks, all focused on Lean, formal verification, and the emerging ecosystem around it.
+I spent five days at the [LeanLang Summer School](https://www.emergence.ai/) at the Indian Institute of Science in Bangalore, run by [Emergence](https://www.emergence.ai/). The week was a mix of lab sessions and talks, all focused on Lean, formal verification, and the emerging ecosystem around it.
 
 <!-- That sounds like an odd way to spend a summer, so let me try to explain why it is one of the more exciting places to be right now. The short version is a question that has quietly become urgent: what does it mean to actually *trust* a piece of software — and now that we are handing real decisions to AI agents, what would it mean to trust *them*? -->
 
@@ -93,8 +93,7 @@ The heart of the talk was a single chart: formalisation *effort* on one axis, *c
 
 More than any single talk, what I am taking home is the people. Over five days of coffee breaks and long lunches I got to talk with students, PhD students, postdocs, faculty, and folks from industry — each carrying a different perspective and a different problem they were excited about. Those conversations, as much as the lectures, made me realise just how genuinely I am invested in this field.
 
-So a big thank you to Emergence for sponsoring my stay and making the whole thing possible, and to Siddhartha Gadgil, KC Sivaramakrishnan, Ilya Sergey, Deepak D'Souza, KV Raghavan, and everyone working behind the scenes for putting together such a generous and genuinely inspiring week. I came for the Lean; I left with a much clearer sense of why I want to keep doing this.
-
+So a big thank you to Emergence for organising such a wonderful event, and to Siddhartha Gadgil, KC Sivaramakrishnan, Ilya Sergey, Deepak D'Souza, KV Raghavan, and everyone working behind the scenes for putting together such a generous and genuinely inspiring week. I came for the Lean; I left with a much clearer sense of why I want to keep doing this.
 
 
 {{< figure src="certificate.jpg" alt="My LeanLang Summer School certificate of completion alongside the ID card" caption="_Proof_ of completion" >}}
