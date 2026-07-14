@@ -7,9 +7,11 @@ showTableOfContents: true
 
 ## 2026
 
-- **May–July** - Research intern at [FPLaunchpad](https://fplaunchpad.org/), IIT Madras, under [Dr. KC Sivaramakrishnan](https://kcsrk.info/), working on formal verification of distributed systems using Lean.
+- **May–July** - Research intern at [FP Launchpad](https://fplaunchpad.org/), IIT Madras, under [Dr. KC Sivaramakrishnan](https://kcsrk.info/), working on formal verification of distributed systems using Lean.
 
-- **15–27 June** - Attending the [Foundational Lecture Series in Theoretical Computer Science](https://www.imsc.res.in/outreach/fstcs2026/) at [IMSc](https://www.imsc.res.in/), Chennai.
+- **5–10 July** - Attended the [LeanLang Summer School](https://east.emergence.ai/summerschool-july2026.html) at [IISc](https://www.iisc.ac.in/), Bangalore, organised by EmergenceAI. ([Blog Post](https://methaphur.github.io/blogs/leanlang-summer-school))
+
+- **15–27 June** - Attended the [Foundational Lecture Series in Theoretical Computer Science](https://www.imsc.res.in/outreach/fstcs2026/) at [IMSc](https://www.imsc.res.in/), Chennai.
 
 - **16–18 April** - Attended the LeanLang for Verified Autonomy hackathon organised by EmergenceAI at IISc, Bangalore. *(blog post soon™)*
 
