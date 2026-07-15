@@ -15,7 +15,7 @@ alt: "The historic main building at the Indian Institute of Science, Bangalore"
 
 <!-- In the second week of July 2026, I found myself at the Indian Institute of Science in Bangalore for five days of the [LeanLang Summer School](https://www.emergence.ai/), run by [Emergence](https://www.emergence.ai/). It was fully funded, down to the accommodation at a rather nice hotel (JP Cosmos, Fortune Select). -->
 
-I spent five days at the [LeanLang Summer School](https://www.emergence.ai/) at the Indian Institute of Science in Bangalore, run by [Emergence](https://www.emergence.ai/). The week was a mix of lab sessions and talks, all focused on Lean, formal verification, and the emerging ecosystem around it.
+I spent five days at the [LeanLang Summer School](https://east.emergence.ai/summerschool-july2026.html) at the Indian Institute of Science in Bangalore, run by [Emergence](https://www.emergence.ai/). The week was a mix of lab sessions and talks, all focused on Lean, formal verification, and the emerging ecosystem around it.
 
 <!-- That sounds like an odd way to spend a summer, so let me try to explain why it is one of the more exciting places to be right now. The short version is a question that has quietly become urgent: what does it mean to actually *trust* a piece of software - and now that we are handing real decisions to AI agents, what would it mean to trust *them*? -->
 
