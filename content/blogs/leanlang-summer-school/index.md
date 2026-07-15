@@ -22,6 +22,8 @@ I spent five days at the [LeanLang Summer School](https://east.emergence.ai/summ
 This is one of the most exciting places to be right now, because it is grappling with a question that has quietly become urgent: what does it mean to actually *trust* a piece of software - and now that we are handing real decisions to AI agents, what would it mean to trust *them*?
 
 
+_This post is a set of notes and reflections from the week, and I will try to make it accessible to a general audience. If you are already familiar with these topics, you may find the content elementary; if you are new to them, I hope it gives you a sense of what is happening in this space. Kindly let me know if you spot any errors or misrepresentations, and I will correct them._
+
 ## How I got here
 
 I am an Int. MSc student at [NISER](https://www.niser.ac.in/), majoring in mathematics with a minor in computer science. A maths degree trains you to care about precise definitions and airtight arguments, and at some point that taste for rigour collided with computers.
