@@ -2,7 +2,7 @@
 title: "Collaborative text editing with RGA"
 date: 2026-07-30
 description: "A tombstone-free sequence MRDT in Lean 4, and a machine-checked negative result about it."
-summary: "Notes on a tombstone-free RGA: proved RA-linearizable in Lean 4 with zero sorries, then found to reorder your text on delete. Why convergence is not correctness."
+summary: "Notes on a tombstone-free RGA: proved RA-linearizable in Lean 4, then found to reorder your text on delete. Why convergence is not correctness."
 categories: ["fpl","Notes"]
 tags:
   - "Lean"
