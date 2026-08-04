@@ -51,7 +51,7 @@ As the **Head of the Coding Club** at NISER, I organize events, oversee activiti
 
 Selected activities include:
 
-- **Code N Cffee:** Organized weekly coding sessions for problem solving, algorithms, and programming discussions.
+- **Code N Coffee:** Started casual meetups for coding enthusiasts to talk about whatever they find interesting, from algorithms to side projects.
 - **Switcheroo Coding Event:** Organized the event, developed the competition website, and supported execution. [Event details](https://www.niser.ac.in/~smishra/event/2022sdg/switcheroo.html)
 - **Pi Day Celebration 2024:** Organized a mathematics-focused event with puzzles, quizzes, and talks.
 - **SUMS, SRS, and AXIOM:** Helped organize talks within the club and participated in related events.

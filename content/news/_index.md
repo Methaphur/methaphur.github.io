@@ -9,6 +9,8 @@ showTableOfContents: true
 
 - **May–July** - Research intern at [FP Launchpad](https://fplaunchpad.org/), IIT Madras, under [Dr. KC Sivaramakrishnan](https://kcsrk.info/), working on formal verification of distributed systems using Lean. ([Blog Post](/blogs/replicated-growable-array))
 
+- **30 July** - Gave my internship presentation, *Convergence is Not Enough: Verifying a Tombstone-Free Sequence MRDT in Lean 4*, at FP Launchpad, IIT Madras. ([Slides](/talks/RGA-Talk.pdf))
+
 - **5–10 July** - Attended the [LeanLang Summer School](https://east.emergence.ai/summerschool-july2026.html) at [IISc](https://www.iisc.ac.in/), Bangalore, organised by EmergenceAI. ([Blog Post](/blogs/leanlang-summer-school))
 
 - **15–27 June** - Attended the [Foundational Lecture Series in Theoretical Computer Science](https://www.imsc.res.in/outreach/fstcs2026/) at [IMSc](https://www.imsc.res.in/), Chennai.
@@ -25,4 +27,18 @@ showTableOfContents: true
 
 - **18 April** - Gave a talk on [Transformers Learn Shortcuts to Automata](https://arxiv.org/abs/2210.10749) with Yash Chauhan, as part of the Advanced Machine Learning course at NISER. ([Slides](/talks/transformers-shortcuts-to-automata-slides.pdf), [Report](/talks/transformers-shortcuts-to-automata-report.pdf))
 
+- **29 March** - Organised a talk on cybersecurity and hacking awareness for school students, as part of Prerna, a science exposure event run by the Zariya club.
+
 - **22 March** - Organised [Against Time](https://www.niser.ac.in/~smishra/event/25againsttime/) a competitive programming event at NISER.
+
+## 2024
+
+- **26 October** - Started the [Problem of the Week](https://sdgniser.github.io/problem-of-the-week/) initiative, where participants submit solutions online for a moderator to score, with a live leaderboard.
+
+- **20 October** - Presented an introduction to path finding algorithms at the Open Day outreach programme at NISER, walking school students through Dijkstra's algorithm and A\*, and showing how code turns an idea into something usable.
+
+- **19 September** - Gave an introductory talk on Turing machines, building a barebones Turing machine in Python, as part of the Code N Coffee sessions.
+
+- **16 September** - Organised [Switcheroo](https://github.com/Methaphur/switcheroo), a paired coding competition where teammates swap places partway through and finish each other's problems, with no comments allowed. I built the Flask server that handled submissions and kept the running tally.
+
+- **22 June** - Started Code N Coffee, a casual meetup for coding enthusiasts at NISER to talk about whatever they find interesting. Informal and fun, and a space for us to gather and share our enthusiasm for computer science.

@@ -17,6 +17,13 @@ My research interests lie at the intersection of **automated reasoning**, **form
 
 ## Talks
 
+**Convergence is Not Enough: Verifying a Tombstone-Free Sequence MRDT in Lean 4**  
+*July 2026 · FP Launchpad, IIT Madras*
+
+Closing presentation for my internship under [Dr. KC Sivaramakrishnan](https://kcsrk.info/). The talk builds from collaborative text editing and why replication makes it hard, through CRDTs and RGA, to **RA-linearizability** as a statement of what "correct" should mean for a sequence — convergence alone is not enough. It then presents a tombstone-free RGA mechanized in Lean 4 with the [Sal](https://kcsrk.info/papers/sal_jan26.pdf) framework: proved RA-linearizable, and then shown to reorder text on delete regardless. It closes with EmbedRGA, which repairs this using immutable coordinates.
+
+[Slides](/talks/RGA-Talk.pdf) · [Write-up](/blogs/replicated-growable-array)
+
 **Transformers Learn Shortcuts to Automata**  
 *April 2025 · Advanced Machine Learning course, NISER · with Yash Chauhan*
 
