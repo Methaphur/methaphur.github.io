@@ -17,12 +17,12 @@ showTableOfContents: true
 
 ## 2025
 
-- **8 November** - Presented a PoseDetection simulation at the Open Day outreach programme at NISER.
+- **8 November** - Presented a PoseDetection simulation ([Github Repo](https://github.com/Methaphur/Pose-Detection)) at the Open Day outreach programme at NISER.
 
 - **25 October** - First Prize at the [MathematiX club](https://mathematix-club.github.io/) event at [Umang](https://methaphur.github.io/Umang/index.html) (website done by me), the annual college fest at NISER.
 
 - **Summer** - Research intern at [IMSc](https://www.imsc.res.in/), Chennai, under [Dr. Meena Mahajan](https://www.imsc.res.in/~meena/), on an introduction to Logic and Automated Reasoning.
 
-- **April** - Gave a talk on [Transformers Learn Shortcuts to Automata](https://arxiv.org/abs/2210.10749) with Yash Chauhan, as part of the Advanced Machine Learning course at NISER. ([Slides](/talks/transformers-shortcuts-to-automata-slides.pdf), [Report](/talks/transformers-shortcuts-to-automata-report.pdf))
+- **18 April** - Gave a talk on [Transformers Learn Shortcuts to Automata](https://arxiv.org/abs/2210.10749) with Yash Chauhan, as part of the Advanced Machine Learning course at NISER. ([Slides](/talks/transformers-shortcuts-to-automata-slides.pdf), [Report](/talks/transformers-shortcuts-to-automata-report.pdf))
 
-- **March 22** - Organised [Against Time](https://www.niser.ac.in/~smishra/event/25againsttime/) a competitive programming event at NISER.
+- **22 March** - Organised [Against Time](https://www.niser.ac.in/~smishra/event/25againsttime/) a competitive programming event at NISER.
