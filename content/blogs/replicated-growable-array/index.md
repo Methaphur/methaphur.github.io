@@ -18,8 +18,9 @@ showDate: true
 showReadingTime: true
 # showWordCount: true
 showTaxonomies: true
-showEdit: false
-showHero: false
+showHero: true
+heroStyle : big
+featureimagecaption: "Subhramonian Shankar Block at IIT Madras"
 ---
 
 {{< katex >}}
