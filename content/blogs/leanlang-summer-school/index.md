@@ -3,7 +3,7 @@ title: "LLM Proposes, Lean Disposes: A Week at the LeanLang Summer School"
 date: 2026-07-14
 description: "Notes from the LeanLang Summer School at IISc Bangalore, on Lean"
 summary: "In July 2026 I spent a week at IISc Bangalore for the LeanLang Summer School, run by Emergence. Here is how I got there, what Lean actually is, why formally verified autonomy suddenly matters, and a tour of the week."
-tags: ["lean", "formal verification", "theorem proving", "emergence", "IISc", "distributed systems" ,"agentic systems", "summer school", "LLM"]
+tags: ["Lean", "Formal Verification", "Theorem Proving", "LLM", "Summer School"]
 categories: ["Notes"]
 showHero: true
 heroStyle: "big"

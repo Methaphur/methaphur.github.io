@@ -3,7 +3,7 @@ colorScheme = "one-light"
 defaultAppearance = "dark"
 autoSwitchAppearance = true
 
-enableSearch = false
+enableSearch = true
 enableCodeCopy = true
 enableStructuredBreadcrumbs = true
 
@@ -46,15 +46,17 @@ defaultSocialImage = "/img/hari.jpeg"
   showBreadcrumbs = true
   showSummary = true
   showCards = true
-  orderByWeight = true
+  orderByWeight = false
   groupByYear = false
-  cardView = true
+  # Flip back to true once every post in content/blogs/ has a featured image;
+  # with only some posts illustrated the card grid renders half-empty.
+  cardView = false
   cardViewScreenWidth = false
 
 [taxonomy]
   showTermCount = true
-  cardView = true
+  cardView = false
 
 [term]
   groupByYear = false
-  cardView = true
+  cardView = false

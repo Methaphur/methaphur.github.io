@@ -5,10 +5,6 @@ description: "A visual and mathematical tour of Gauss's Theorema Egregium, the t
 summary: "Gauss's Theorema Egregium reveals that Gaussian curvature is intrinsic: it can be read from distances measured on a surface, without looking at the surrounding 3D space."
 tags: ["differential geometry", "gaussian curvature", "gauss"]
 categories: ["Mathematics"]
-showHero: true
-heroStyle: "big"
-featureimagecaption: "Curvature can look extrinsic, but Gauss showed it is encoded in the surface's own metric."
-alt: "An illustrated curved surface and a flat grid showing intrinsic curvature"
 ---
 
 {{< katex >}}

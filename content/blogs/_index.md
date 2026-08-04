@@ -1,5 +1,5 @@
 ---
-title: "Blogs"
+title: "Writing"
 description: "Notes and essays by Harisankar B on mathematics, theoretical computer science, proof assistants, and technical projects."
 outputs: ["HTML", "RSS"]
 ---

@@ -1,0 +1,15 @@
+/* Utilities used by the homepage cards that Blowfish's precompiled stylesheet
+   does not emit. Loaded after css/compiled/main.css, so these win.
+   Colours come from the active scheme's custom properties. */
+
+.hover\:border-primary-500:hover {
+  border-color: rgb(var(--color-primary-500));
+}
+
+.dark .dark\:hover\:border-primary-400:hover {
+  border-color: rgb(var(--color-primary-400));
+}
+
+.dark .dark\:hover\:bg-neutral-800:hover {
+  background-color: rgb(var(--color-neutral-800));
+}

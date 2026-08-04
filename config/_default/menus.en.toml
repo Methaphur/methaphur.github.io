@@ -4,12 +4,17 @@
   weight = 10
 
 [[main]]
+  name = "Research"
+  pageRef = "research"
+  weight = 12
+
+[[main]]
   name = "News"
   pageRef = "news"
   weight = 15
 
 [[main]]
-  name = "Blogs"
+  name = "Writing"
   pageRef = "blogs"
   weight = 20
 
@@ -17,24 +22,6 @@
   name = "Projects"
   pageRef = "projects"
   weight = 30
-
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/Methaphur"
-  weight = 90
-
-[[main]]
-  identifier = "email"
-  pre = "envelope"
-  url = "mailto:harisankar.b@niser.ac.in"
-  weight = 100
-
-[[main]]
-  identifier = "linkedin"
-  pre = "linkedin"
-  url = "https://in.linkedin.com/in/harisankar-binod"
-  weight = 101
 
 [[footer]]
   name = "About"
@@ -42,22 +29,27 @@
   weight = 10
 
 [[footer]]
+  name = "Research"
+  pageRef = "research"
+  weight = 12
+
+[[footer]]
   name = "News"
   pageRef = "news"
   weight = 15
 
 [[footer]]
-  name = "Blogs"
+  name = "Writing"
   pageRef = "blogs"
   weight = 20
-
-[[footer]]
-  name = "Projects"
-  pageRef = "projects"
-  weight = 30
 
 [[footer]]
   name = "RSS"
   pre = "rss"
   url = "/blogs/index.xml"
-  weight = 25
+  weight = 40
+
+[[footer]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 30
