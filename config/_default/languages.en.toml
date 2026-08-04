@@ -21,8 +21,9 @@ title = "Harisankar B"
   bio = "Exploring formal verification, theoretical computer science, and AI."
   links = [
     { email = "mailto:harisankar.b@niser.ac.in" },
-    { github = "https://github.com/Methaphur" },
     { linkedin = "https://www.linkedin.com/in/harisankar-binod" },
+    { github = "https://github.com/Methaphur" },
+    { orcid = "https://orcid.org/0009-0008-1359-7367" },
     { bluesky = "https://bsky.app/profile/harisankarbinod.bsky.social" },
     { x-twitter = "https://x.com/HarisankarBinod" }
   ]

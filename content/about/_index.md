@@ -62,5 +62,6 @@ Selected activities include:
 
 - **Email:** [harisankar.b@niser.ac.in](mailto:harisankar.b@niser.ac.in)
 - **Personal Email:** [harisankarbinodss@gmail.com](mailto:harisankarbinodss@gmail.com)
+- **ORCID:** [0009-0008-1359-7367](https://orcid.org/0009-0008-1359-7367)
 - **LinkedIn:** [Harisankar B](https://www.linkedin.com/in/harisankar-binod)
 - **GitHub:** [Methaphur](https://github.com/Methaphur)

@@ -11,6 +11,8 @@ My research interests lie at the intersection of **automated reasoning**, **form
 
 ## Publications
 
+ORCID: [0009-0008-1359-7367](https://orcid.org/0009-0008-1359-7367)
+
 **Harisankar Binod**, T. Shithij, A. Tichy, and S. Mishra. *Artificial Intelligence in Oral Health*. In **Artificial Intelligence for Oral Health Care: Applications and Future Prospects**, eds. F. Schwendicke, P.K. Chaudhari, K. Dhingra, S.E. Uribe, M. Hamdan. Springer Nature Switzerland, Cham, 2025, pp. 1-21. [https://doi.org/10.1007/978-3-031-84047-0_1](https://doi.org/10.1007/978-3-031-84047-0_1)
 
 ---
