@@ -14,8 +14,6 @@ alt: "Mathlib's Lean definition of RiemannHypothesis: for every complex s with r
 
 {{< katex >}}
 
-*The title is my friend Aneesh's idea, a reference to Mac Lane's* Categories for the Working Mathematician.
-
 I was halfway through writing up our Lean workshop when [Levent Alpöge](https://alpo.ge/) released a proof of the Riemann Hypothesis.
 
 On 20 November 2026 [he announced it](https://alpo.ge/remark.pdf) as a Lean library of about 17 million lines of code, written with Claude. A day later, the Lean and Mathlib communities published a [joint statement](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/), endorsed by the Lean FRO and the Mathlib Initiative:
@@ -34,7 +32,7 @@ The answer is that Lean *is* the guarantee. By the nature of Lean, if it checks,
 
 ## The workshop
 
-To make Lean a little less alien to our friends and faculty at [NISER](https://niser.ac.in), Aneesh Ukidve (B22 Int. MSc), [Dr.Anamay Tengse](https://anamay.bitbucket.io/) and I ran an introductory Lean workshop on Saturday, 14 November, in the SMS Seminar Hall. There were three sessions, each building on the one before:
+To make Lean a little less alien to our friends and faculty at [NISER](https://niser.ac.in), Aneesh Ukidve (B22 Int. MSc), [Dr. Anamay Tengse](https://anamay.bitbucket.io/) and I ran an introductory Lean workshop on Saturday, 14 November, in the SMS Seminar Hall. There were three sessions, each building on the one before:
 
 1. **Programs and types** (Anamay)
 2. **Why Lean Works?** (Aneesh)
@@ -187,7 +185,7 @@ It's also why it doesn't matter who wrote the proof: you, a tactic, or an AI. Th
 
 Writing proof terms by hand gets painful fast, so Lean lets you build them one step at a time with **tactics**. Tactics are programs (proof automation tools) that construct the proof term for you.
 
-We went through ten of them, one card each: `exact`, `intro`, `apply`, `constructor`, `obtain`, `left`/`right`, `rcases`, `exists`, `rw` and `suffices`. When we actually prove *Read the goal after every step*: the infoview always tells you what's left to prove.
+We went through ten of them, one card each: `exact`, `intro`, `apply`, `constructor`, `obtain`, `left`/`right`, `rcases`, `exists`, `rw` and `suffices`. The one habit we kept repeating while proving things: *read the goal after every step*. The infoview always tells you what's left to prove.
 
 Here's `and_swap` again, written with tactics:
 
@@ -213,7 +211,7 @@ Unfortunately we didn't have time to build the natural numbers from scratch or g
 
 ## "But who checks the checker?"
 
-The best question of the day came from one of the professors in the audience. [TODO: name them, or keep it anonymous? Check with them first.]
+The best question of the day came from one of the professors in the audience. 
 
 If everything rests on the kernel, how do we know the kernel is type-checking correctly?
 
@@ -366,7 +364,7 @@ If the workshop, or this post, got you curious:
 
 ## Thanks
 
-Thanks to Anamay and Aneesh for co-hosting, and for the two sessions that made mine possible. Thanks to everyone who came and spent a Saturday on proofs.
+Thanks to Anamay and Aneesh for co-hosting, and for the two sessions that made mine possible. Thanks to everyone who came and spent a Saturday with us. And thanks to Aneesh for the title, a reference to Saunders Mac Lane's *Categories for the Working Mathematician*.
 
 ## Sources
 
