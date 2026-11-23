@@ -31,9 +31,9 @@ Thiruvananthapuram, Kerala
 | --- | --- |
 | Proof Assistants and Formal Methods | Lean 4, Mathlib |
 | Programming Languages | Python, JavaScript |
-| Machine Learning and AI | PyTorch, TensorFlow, scikit-learn |
-| Scientific Computing | NumPy, Pandas, Matplotlib, Mathematica, LaTeX |
-| Web and Tooling | Flask, Django, React, HTML, CSS |
+| Machine Learning and AI | PyTorch, TensorFlow, scikit-learn, OpenCV, MediaPipe |
+| Scientific Computing | NumPy, SciPy, Pandas, Matplotlib, Mathematica, LaTeX |
+| Web and Tooling | Flask, Django, React, HTML, CSS, Google Apps Script, Git, Make |
 
 Outside of this I play the violin, with an interest in classical and contemporary music.
 

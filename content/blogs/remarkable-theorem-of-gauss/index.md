@@ -275,3 +275,5 @@ Gauss revealed that curvature has an internal life. It is not merely how a surfa
 That insight changed geometry. It prepared the ground for Riemannian geometry, where one studies curved spaces without needing a larger space to contain them. It also echoes through general relativity, where curvature is not something observed from outside the universe, but something measured from within it.
 
 The theorem is remarkable because it turns a question about shape into a question about distance.
+
+*If you'd like to play with curves and light, try the [Catacaustic Curve Explorer](https://methaphur.github.io/catacaustic-curves/): choose a mirror, move the light, and watch the reflected rays trace out their envelope.*

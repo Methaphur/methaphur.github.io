@@ -17,7 +17,14 @@ ORCID: [0009-0008-1359-7367](https://orcid.org/0009-0008-1359-7367)
 
 ---
 
-## Talks
+## Talks and Workshops
+
+**Hands-on Lean** — *Lean for the Working Mathematician* workshop  
+*November 2026 · NISER · with Aneesh Ukidve and [Dr. Anamay Tengse](https://anamay.bitbucket.io/)*
+
+Co-organised an introductory Lean workshop for students and faculty at NISER, and led the third, hands-on session. Building on earlier sessions covering programs and types, and why Lean works, it introduced propositions as types, then had participants write their own proofs with core tactics.
+
+[Slides](https://github.com/Methaphur/NISER-Lean-Workshop/blob/main/Slides/Lean-Workshop-S3.pdf) · [Tactic cheat sheet](https://github.com/Methaphur/NISER-Lean-Workshop/blob/main/Slides/Tactic-Cheatsheet.pdf) · [Materials](https://github.com/Methaphur/NISER-Lean-Workshop) · [Write-up](/blogs/lean-workshop-niser)
 
 **Convergence is Not Enough: Verifying a Tombstone-Free Sequence MRDT in Lean 4**  
 *July 2026 · FP Launchpad, IIT Madras*

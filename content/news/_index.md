@@ -37,7 +37,7 @@ showTableOfContents: true
 
 - **26 October** - Started the [Problem of the Week](https://sdgniser.github.io/problem-of-the-week/) initiative, where participants submit solutions online for a moderator to score, with a live leaderboard.
 
-- **20 October** - Presented an introduction to path finding algorithms at the Open Day outreach programme at NISER, walking school students through Dijkstra's algorithm and A\*, and showing how code turns an idea into something usable.
+- **20 October** - Presented an introduction to path finding algorithms at the Open Day outreach programme at NISER, walking school students through Dijkstra's algorithm and A\*, and showing how code turns an idea into something usable. ([GitHub Repo](https://github.com/Methaphur/Path-Finding-Visualization))
 
 - **19 September** - Gave an introductory talk on Turing machines, building a barebones Turing machine in Python, as part of the Code N Coffee sessions.
 
