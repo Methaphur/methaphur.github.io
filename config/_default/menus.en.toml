@@ -23,6 +23,11 @@
   pageRef = "projects"
   weight = 30
 
+[[main]]
+  name = "CV"
+  url = "https://methaphur.github.io/Harisankar_Binod.pdf"
+  weight = 35
+
 [[footer]]
   name = "About"
   pageRef = "about"
@@ -53,3 +58,8 @@
   name = "Projects"
   pageRef = "projects"
   weight = 30
+
+[[footer]]
+  name = "CV"
+  url = "https://methaphur.github.io/Harisankar_Binod.pdf"
+  weight = 35

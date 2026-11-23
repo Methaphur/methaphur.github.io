@@ -1,0 +1,221 @@
+% Curriculum Vitae -- Harisankar Binod
+% Build: make   (or: latexmk -pdf Harisankar_Binod.tex)
+\documentclass[11pt,a4paper]{article}
+
+% ---------- Page and fonts ----------
+\usepackage[a4paper,margin=0.68in,top=0.6in,bottom=0.65in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb}
+\usepackage{XCharter}
+\usepackage{microtype}
+\usepackage{fontawesome5}
+\usepackage{academicons}
+\usepackage[dvipsnames]{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage[hidelinks]{hyperref}
+
+\definecolor{accent}{HTML}{1F4E79}
+\definecolor{muted}{HTML}{555555}
+
+\hypersetup{
+  pdftitle={Harisankar Binod},
+  pdfauthor={Harisankar Binod},
+  colorlinks=true, urlcolor=accent, linkcolor=accent
+}
+
+\pagestyle{plain}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\linespread{1.0}
+
+% ---------- Section style ----------
+\titleformat{\section}
+  {\large\scshape\color{accent}}
+  {}{0pt}{}
+  [\vspace{-0.55\baselineskip}\color{accent}\rule{\textwidth}{0.5pt}]
+\titlespacing*{\section}{0pt}{7pt}{4pt}
+
+\setlist[itemize]{leftmargin=1.1em, label={\color{muted}\textbullet}, itemsep=1pt, topsep=1pt, parsep=0pt}
+
+% ---------- Macros ----------
+% \cventry{Title}{Dates}{Organisation / place}{Optional details}
+\newcommand{\cventry}[4]{%
+  \textbf{#1}\hfill{\color{muted}#2}\\
+  \textit{#3}%
+  \if\relax\detokenize{#4}\relax\else\par\vspace{1pt}#4\fi
+  \par\vspace{3pt}%
+}
+% \cvitem{Label}{Text}
+\newcommand{\cvitem}[2]{%
+  \begin{tabularx}{\textwidth}{@{}p{0.19\textwidth}@{\hspace{0.8em}}X@{}}
+    \textbf{#1} & #2
+  \end{tabularx}\par%
+}
+% \cvdated{Text}{Date}: one-line entry with right-aligned date
+\newcommand{\cvdated}[2]{#1\hfill{\color{muted}#2}}
+\newcommand{\links}[1]{{\small[#1]}}
+\newcommand{\sep}{\enspace{\color{muted}$\cdot$}\enspace}
+
+\begin{document}
+
+% ---------- Header ----------
+\begin{center}
+  {\fontsize{24}{28}\selectfont\scshape Harisankar Binod}\\[4pt]
+  {\color{muted}Integrated MSc Mathematics (Minor: Computer Science), NISER Bhubaneswar}\\[5pt]
+  \small
+  \faEnvelope\ \href{mailto:harisankar.b@niser.ac.in}{harisankar.b@niser.ac.in}\sep
+  \faEnvelope[regular]\ \href{mailto:harisankarbinodss@gmail.com}{harisankarbinodss@gmail.com}\sep
+  \faGlobe\ \href{https://methaphur.github.io}{methaphur.github.io}\\[2pt]
+  \faGithub\ \href{https://github.com/Methaphur}{Methaphur}\sep
+  \faLinkedin\ \href{https://www.linkedin.com/in/harisankar-binod}{harisankar-binod}\sep
+  \aiOrcid\ \href{https://orcid.org/0009-0008-1359-7367}{0009-0008-1359-7367}
+\end{center}
+\vspace{-4pt}
+
+% ---------- Research interests ----------
+\section{Research Interests}
+Automated reasoning, formal methods, theoretical computer science and machine learning: systems that
+reason about, verify and synthesize correct software and mathematics. Currently automated theorem
+proving and Lean; more broadly logic, foundations of computation, and formal reasoning meets ML.
+
+% ---------- Education ----------
+\section{Education}
+\cventry{Integrated MSc in Mathematics, Minor in Computer Science}{2022 -- 2027 (expected)}
+  {National Institute of Science Education and Research (NISER), Bhubaneswar}{}
+\cventry{Higher Secondary Education}{2022}
+  {Sarvodaya Central Vidyalaya, Thiruvananthapuram, Kerala}{}
+
+% ---------- Research experience ----------
+\section{Research Experience}
+\cventry{Research Intern, FP Launchpad, IIT Madras}{May -- Jul 2026}
+  {Advisor: Dr.\ KC Sivaramakrishnan}{%
+  \begin{itemize}
+    \item Formal verification of replicated data types for distributed systems in Lean~4, using the
+          Sal verification framework.
+    \item Mechanised a tombstone-free Replicated Growable Array (RGA), proved it RA-linearizable,
+          and then showed it still reorders text on delete: convergence alone is not enough.
+    \item Contributed the tombstone-free RGA and its successor \textbf{EmbedRGA}, which repairs the
+          anomaly using immutable coordinates, to
+          \href{https://github.com/fplaunchpad/sal}{Sal}.
+  \end{itemize}}
+\cventry{Summer Research Programme, IMSc Chennai}{Summer 2025}
+  {Advisor: Dr.\ Meena Mahajan, Theoretical Computer Science group}{%
+  \begin{itemize}
+    \item Studied formal logic and automated theorem proving, and experimented with Lean.
+  \end{itemize}}
+\cventry{Research Intern, NISER Bhubaneswar}{Summer 2023}
+  {Advisor: Dr.\ Subhankar Mishra}{%
+  \begin{itemize}
+    \item Surveyed applications of artificial intelligence in oral health (diagnosis, treatment and
+          patient care), resulting in a Springer book chapter.
+  \end{itemize}}
+\cventry{Winter Reading Project, Indian Institute of Science (IISc), Bangalore}{Winter 2023}
+  {Advisor: Dr.\ L.\ Sunil Chandran}{%
+  \begin{itemize}
+    \item Read and summarised a research paper in graph theory.
+  \end{itemize}}
+
+% ---------- Publications ----------
+\section{Publications}
+\textbf{Harisankar Binod}, T.\ Shithij, A.\ Tichy, and S.\ Mishra.
+\emph{Artificial Intelligence in Oral Health.}
+In \emph{Artificial Intelligence for Oral Health Care: Applications and Future Prospects},
+eds.\ F.\ Schwendicke, P.\,K.\ Chaudhari, K.\ Dhingra, S.\,E.\ Uribe, M.\ Hamdan.
+Springer Nature Switzerland, Cham, 2025, pp.\ 1--21.
+\href{https://doi.org/10.1007/978-3-031-84047-0_1}{doi:10.1007/978-3-031-84047-0\_1}
+
+% ---------- Talks ----------
+\section{Talks}
+\begin{itemize}[leftmargin=1.1em]
+  \item \cvdated{\textbf{Hands-on Lean}, \emph{Lean for the Working Mathematician} workshop, NISER}{Nov 2026}\\
+        Third, hands-on session: propositions as types and writing proofs with core tactics.
+        \links{\href{https://github.com/Methaphur/NISER-Lean-Workshop/blob/main/Slides/Lean-Workshop-S3.pdf}{slides}}
+  \item \cvdated{\textbf{Convergence is Not Enough: Verifying a Tombstone-Free Sequence MRDT in Lean 4}}{Jul 2026}\\
+        Internship presentation, FP Launchpad, IIT Madras.
+        \links{\href{https://methaphur.github.io/talks/RGA-Talk.pdf}{slides}}
+  \item \cvdated{\textbf{Transformers Learn Shortcuts to Automata} (with Yash Chauhan)}{Apr 2025}\\
+        Advanced Machine Learning course, NISER; on Liu et al.\ (2022), covering Krohn--Rhodes
+        decomposition and circuit complexity.
+        \links{\href{https://methaphur.github.io/talks/transformers-shortcuts-to-automata-slides.pdf}{slides}\,$\cdot$\,%
+        \href{https://methaphur.github.io/talks/transformers-shortcuts-to-automata-report.pdf}{report}}
+  \item \cvdated{\textbf{An Introduction to Turing Machines}, Code N Coffee, NISER (building one in Python)}{Sep 2024}
+\end{itemize}
+
+% ---------- Schools ----------
+\section{Schools, Workshops and Hackathons}
+\begin{itemize}[leftmargin=1.1em]
+  \item \cvdated{LeanLang Summer School, IISc Bangalore (organised by EmergenceAI)}{Jul 2026}
+  \item \cvdated{Foundational Lecture Series in Theoretical Computer Science, IMSc Chennai}{Jun 2026}
+  \item \cvdated{LeanLang for Verified Autonomy Hackathon, IISc Bangalore (organised by EmergenceAI)}{Apr 2026}
+\end{itemize}
+
+% ---------- Teaching & outreach ----------
+\section{Teaching and Outreach}
+\begin{itemize}[leftmargin=1.1em]
+  \item \cvdated{\textbf{Lean workshop, NISER}: co-organised with Aneesh Ukidve and Dr.\ Anamay Tengse}{Nov 2026}\\
+        Wrote the hands-on slides, a one-page tactic cheat sheet and follow-along exercise files.
+        \links{\href{https://github.com/Methaphur/NISER-Lean-Workshop}{materials}}
+  \item \cvdated{\textbf{Topology Assignment Solutions}: class-wide \LaTeX{} compilation}{2026}\\
+        Set up the shared build and file layout, and assembled solutions from over twenty students.
+        \links{\href{https://github.com/Methaphur/Topology-Assignment-Solutions-2026}{repo}}
+  \item \cvdated{\textbf{NISER Open Day}: interactive demos for visiting school students}{2024, 2025}\\
+        Path finding with Dijkstra and A\textsuperscript{*} (2024); live pose detection with MediaPipe and YOLO (2025).
+  \item \cvdated{\textbf{Cybersecurity awareness talk} for school students, Prerna (Zariya club)}{Mar 2025}
+\end{itemize}
+
+% ---------- Projects ----------
+\section{Selected Projects}
+\begin{itemize}[leftmargin=1.1em]
+  \item \textbf{Tombstone-free sequence MRDT in Lean 4} -- RA-linearizable RGA and EmbedRGA, contributed to
+        the Sal framework. \links{\href{https://github.com/fplaunchpad/sal}{repo}\,$\cdot$\,%
+        \href{https://methaphur.github.io/blogs/replicated-growable-array/}{write-up}}
+  \item \textbf{How QR Codes Work} -- interactive explainer from encoding to Reed--Solomon error
+        correction over $\mathbb{F}_{256}$ and scanner geometry.
+        \links{\href{https://methaphur.github.io/How-do-QR-Codes-Work/}{site}\,$\cdot$\,%
+        \href{https://github.com/Methaphur/How-do-QR-Codes-Work}{repo}}
+  \item \textbf{Catacaustic Curve Explorer} -- interactive visualisation of caustics formed by reflective curves.
+        \links{\href{https://methaphur.github.io/catacaustic-curves/}{site}\,$\cdot$\,%
+        \href{https://github.com/Methaphur/catacaustic-curves}{repo}}
+  \item \textbf{Problem of the Week} -- weekly competitive-programming platform with an automated leaderboard.
+        \links{\href{https://sdgniser.github.io/problem-of-the-week}{site}\,$\cdot$\,%
+        \href{https://github.com/Methaphur/problem-of-the-week}{repo}}
+  \item \textbf{Umang '25 website} -- official site of NISER's annual fest, with a self-refreshing live results board.
+        \links{\href{https://methaphur.github.io/Umang/}{site}}
+\end{itemize}
+
+% ---------- Leadership ----------
+\section{Leadership and Service}
+\begin{itemize}[leftmargin=1.1em]
+  \item \textbf{Head, Coding Club, NISER} -- organise events and plan initiatives that promote coding and technology.
+        \begin{itemize}
+          \item Started \emph{Code N Coffee} (Jun 2024), informal meetups for coding enthusiasts, and
+                \emph{Problem of the Week} (Oct 2024).
+          \item Organised \emph{Switcheroo} (Sep 2024), a paired coding contest, and built its Flask
+                submission and scoring server; organised \emph{Against Time} (Mar 2025), a
+                competitive programming event.
+        \end{itemize}
+  \item \textbf{Core member, MathematiX Club, NISER} -- Pi Day Celebration 2024; helped organise SUMS,
+        SRS and AXIOM talks.
+\end{itemize}
+
+% ---------- Coursework ----------
+\section{Relevant Coursework}
+\cvitem{Mathematics}{Real Analysis, Complex Analysis, Functional Analysis, Measure Theory, Topology,
+  Linear Algebra, Group Theory, Rings and Modules, Number Theory, Graph Theory,
+  Probability Theory}
+\cvitem{Computer Science}{Data Structures and Algorithms, Design and Analysis of Algorithms, Theory of
+  Computation, Algorithmic Coding Theory, Computational Geometry,
+  Advanced Machine Learning}
+
+% ---------- Skills ----------
+\section{Skills}
+\cvitem{Formal Methods}{Lean~4, Mathlib}
+\cvitem{Programming}{Python, JavaScript}
+\cvitem{Machine Learning}{PyTorch, TensorFlow, scikit-learn, OpenCV, MediaPipe}
+\cvitem{Scientific}{NumPy, SciPy, Pandas, Matplotlib, Mathematica, \LaTeX}
+\cvitem{Web and Tooling}{Flask, Django, React, HTML/CSS, Google Apps Script, Git, Make}
+
+\end{document}
