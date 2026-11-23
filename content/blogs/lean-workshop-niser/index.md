@@ -38,6 +38,8 @@ To make Lean a little less alien to our friends and faculty at [NISER](https://n
 2. **Why Lean Works?** (Aneesh)
 3. **Hands-on Lean** (me)
 
+{{< figure src="LEAN-Workshop.jpg" alt="A green chalkboard with 'L∃∀N Workshop' written in chalk, the E and A drawn as ∃ and ∀" >}}
+
 This post walks through what we covered, and then answers an interesting question we got from the audience.
 
 ## Let's talk about Lean
