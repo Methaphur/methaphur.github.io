@@ -7,6 +7,8 @@ showTableOfContents: true
 
 ## 2026
 
+- **14 November** - Co-organised an introductory Lean workshop at [NISER](https://niser.ac.in) with Aneesh Ukidve and [Dr. Anamay Tengse](https://anamay.bitbucket.io/), and led the hands-on Lean session. ([Blog Post](/blogs/lean-workshop-niser))
+
 - **May–July** - Research intern at [FP Launchpad](https://fplaunchpad.org/), IIT Madras, under [Dr. KC Sivaramakrishnan](https://kcsrk.info/), working on formal verification of distributed systems using Lean. ([Blog Post](/blogs/replicated-growable-array))
 
 - **30 July** - Gave my internship presentation, *Convergence is Not Enough: Verifying a Tombstone-Free Sequence MRDT in Lean 4*, at FP Launchpad, IIT Madras. ([Slides](/talks/RGA-Talk.pdf))
