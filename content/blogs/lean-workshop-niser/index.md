@@ -3,7 +3,7 @@ title: "Lean for the Working Mathematician"
 date: 2026-11-23T00:00:00+05:30
 draft: false
 description: "Notes from an introductory Lean workshop at NISER, and what Lean's kernel does and does not guarantee about the Lean proof of the Riemann Hypothesis."
-summary: "We ran an introductory Lean workshop at NISER, the same week a Lean proof of the Riemann Hypothesis was released. Here is what we covered, from Curry–Howard to tactics, and a longer answer to the best question of the day: who checks the checker?"
+summary: "We ran an introductory Lean workshop at NISER, the same week a Lean proof of the Riemann Hypothesis was released. Here is what we covered, from Curry–Howard to tactics, and a longer answer to a question from the audience: who checks the checker?"
 tags: ["Lean", "Formal Verification", "Theorem Proving", "Riemann Hypothesis", "Workshop"]
 categories: ["Notes"]
 showHero: true
@@ -38,7 +38,7 @@ To make Lean a little less alien to our friends and faculty at [NISER](https://n
 2. **Why Lean Works?** (Aneesh)
 3. **Hands-on Lean** (me)
 
-This post walks through what we covered, and then answers the best question we got on the day.
+This post walks through what we covered, and then answers an interesting question we got from the audience.
 
 ## Let's talk about Lean
 
@@ -211,7 +211,7 @@ Unfortunately we didn't have time to build the natural numbers from scratch or g
 
 ## "But who checks the checker?"
 
-The best question of the day came from one of the professors in the audience. 
+One of the professors in the audience asked:
 
 If everything rests on the kernel, how do we know the kernel is type-checking correctly?
 
