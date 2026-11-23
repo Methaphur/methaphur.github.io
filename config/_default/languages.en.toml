@@ -9,7 +9,7 @@ title = "Harisankar B"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  description = "Academic webpage of Harisankar B, Integrated MSc Mathematics student at NISER with interests in theoretical computer science, machine learning, formal methods, logic, and graph theory."
+  description = "Academic webpage of Harisankar B, Integrated MSc Mathematics student at NISER working on formal verification and automated reasoning in Lean 4, with interests in theoretical computer science, functional programming, and machine learning."
   copyright = "&copy; 2026 Harisankar B"
 
 [params.author]

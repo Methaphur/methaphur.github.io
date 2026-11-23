@@ -9,6 +9,8 @@ I am currently a fifth-year Integrated MSc student at the National Institute of 
 
 I work on formal verification and automated reasoning — see [Research](/research/) for my internships and publications, and [Projects](/projects/) for things I have built.
 
+*For my latest talks, workshops and other activities, see [News](/news/).*
+
 ---
 
 ## Education
